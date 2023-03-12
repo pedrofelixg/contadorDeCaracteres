@@ -23,7 +23,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Contador de Caracteres**
 | :label: Tecnologias | HTML, CSS e JAVASCRIPT
-| :rocket: URL         | _não possui ainda_
+| :rocket: URL         | https://contador-de-caracteres-puce.vercel.app/
 | :fire: Desafio     | Desafio particular de aprendizagem de funções.
 
 ----------------------------------------------
@@ -39,3 +39,5 @@ Foram usados nesse repositório:
 - Função Javascript para manipulação do D.O.M.
 
 ## **Prévia do Site**
+`Desktop Preview Dark Mode`
+![prévia da imagem da tela para desktop em dark mode](/img/desktopTelaDark.png#vitrinedev)

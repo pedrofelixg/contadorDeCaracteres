@@ -63,6 +63,21 @@ body{
     margin-top: 16px;
 }
 
+.star__github{
+    color: var(--black-dom);
+    text-decoration: none;
+}
+
+.star__github p{
+    background-color: var(--white-dom);
+    padding: 4px 16px;
+    width: fit-content;
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 16px;
+    font-size: 8px;
+}
+
 .rodape{
     padding: 1rem 12rem;
     border-top: 1px solid var(--cinza-alfa);
