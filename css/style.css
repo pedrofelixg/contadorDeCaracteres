@@ -2,6 +2,8 @@
     --fonte-global: 'Space Mono', monospace;
     --black-dom: #202020;
     --white-dom: #f0f0f0;
+    --cinza-alfa: #575757;
+    --cinza-beta: #a8a8a8;
 }
 
 body{
@@ -13,6 +15,11 @@ body{
 
 .page__container{
     padding: 2.5em 150px;
+}
+
+.logo__page{
+    width: 3.5rem;
+    margin-bottom: 8px;
 }
 
 .page__title{
@@ -54,4 +61,32 @@ body{
 .caracteres{
     font-weight: 700;
     margin-top: 16px;
+}
+
+.rodape{
+    padding: 1rem 12rem;
+    border-top: 1px solid var(--cinza-alfa);
+    color: var(--cinza-alfa);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rodape__title{
+    font-size: 12px;
+}
+
+.rodape__links a{
+    color: var(--cinza-alfa);
+    text-decoration: none;
+    font-size: 12px;
+    text-align: left;
+}
+
+.rodape__links p{
+    margin-bottom: 4px;
+}
+
+.fa-brands{
+    margin-right: 6px;
 }
