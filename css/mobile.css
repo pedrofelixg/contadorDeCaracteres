@@ -1,0 +1,28 @@
+@import url(/css/style.css);
+
+@media (min-width:  360px){
+    .page__container{
+        padding: 1.5rem 36px;
+    }
+
+    .page__title{
+        font-size: 22px;
+    }
+
+    .form__control{
+        padding: .18rem .8rem;
+    }
+
+    .rodape{
+        padding: 1rem 2rem;
+        flex-direction: column;
+    }
+
+    .rodape__links a{
+        font-size: 8px;
+    }
+
+    .rodape__links p{
+        margin-top: 8px;
+    }
+}
