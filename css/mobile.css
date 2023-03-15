@@ -1,6 +1,6 @@
 @import url(/css/style.css);
 
-@media (min-width:  360px){
+@media (max-width: 870px){
     .page__container{
         padding: 1.5rem 36px;
     }
